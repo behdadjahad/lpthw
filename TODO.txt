@@ -1,2 +1,2 @@
-1. learn about multi line comment in python 				[]
+1. learn about multi line comment in python (it dose not have a multiline comment use ``` ... ``` or """ ... """ or simply coment every line with #) 				[*]
 
